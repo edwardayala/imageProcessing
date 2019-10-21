@@ -7,7 +7,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class ImageProcessing2 {
+public class ImageProcessing {
     public static void main(String[] args) {
         //The user enters input, output image files and the type of operation through command line arguments
 
