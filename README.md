@@ -1,9 +1,4 @@
 
-
-
-
-
-# Image Processing
 A command line application that can perform various image manipulation processes to a specified image. Written in Java.
 
 ## Features:
