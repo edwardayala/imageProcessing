@@ -46,6 +46,8 @@ A command line application that can perform various image manipulation processes
 			}
 		}
 	}
+
+
 ### Invert:
 	public void invertImage() {
 	for (int i = 0; i < rows; i++) {
@@ -69,6 +71,8 @@ A command line application that can perform various image manipulation processes
 			}
 		}
 	}
+
+
 ### Add Grid
 	public void addBars() {
 	Scanner input = new Scanner(System.in);
@@ -112,6 +116,8 @@ A command line application that can perform various image manipulation processes
 			}
 		}
 	}
+
+
 ### Blur:
 	public BufferedImage filterImageB(float [] matrix){
 
@@ -153,6 +159,8 @@ A command line application that can perform various image manipulation processes
 			}
 		}
 	}
+
+
 ### Emboss:
 	public BufferedImage filterImageE(float [] matrix){
 
