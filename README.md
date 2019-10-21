@@ -1,6 +1,8 @@
 
 
 
+
+
 # Image Processing
 A command line application that can perform various image manipulation processes to a specified image. Written in Java.
 
@@ -13,6 +15,9 @@ A command line application that can perform various image manipulation processes
 	* Add Grid
 	* Blur
 	* Emboss
+## Use:
+	java ImageProcessing imageInput.png imageOutput.png [operation: grayscale, inverse, add_bars,.. etc ]
+
 ## Code Highlights:
 ### Grayscale:
 
